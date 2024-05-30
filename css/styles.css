@@ -1,0 +1,107 @@
+/* Custom styles for the project */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.jumbotron {
+    background-image: url('images/jumbotron.jpg');
+    background-size: cover;
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+
+.jumbotron h1, .jumbotron p {
+    color: rgba(243, 103, 103, 0.848);
+    text-shadow: 4px 4px 8px rgba(0,0,0,0.5);
+}
+
+.container h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+}
+
+.footer a {
+    margin: 0 10px;
+}
+
+.footer p {
+    margin: 0;
+}
+/* Custom styles for the project */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #ff5722 !important;
+}
+
+.jumbotron {
+    background-image: url('../images/jumbotron.jpg');
+    background-size: cover;
+    color: rgb(241, 50, 50);
+    text-align: center;
+}
+
+.jumbotron h1, .jumbotron p {
+    color: rgb(230, 41, 41);
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+.container h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #007bff;
+}
+
+.footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 20px 0;
+}
+
+.footer a {
+    margin: 0 10px;
+    color: #ff5722;
+}
+
+.footer p {
+    margin: 0;
+}
+
+.login-container h2, .register-container h2 {
+    color: #007bff;
+}
+
+.btn-primary {
+    background-color: #ff5722;
+    border: none;
+}
+
+a.nav-link, .dropdown-menu a {
+    color: #007bff !important;
+}
+
+a.nav-link:hover, .dropdown-menu a:hover {
+    color: #ff5722 !important;
+}
+
+a.btn-outline-primary {
+    border-color: #ff5722;
+    color: #ff5722;
+}
+
+a.btn-outline-primary:hover {
+    background-color: #ff5722;
+    color: #ffffff;
+}
